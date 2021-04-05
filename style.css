@@ -1,0 +1,64 @@
+img {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    transition: transform.2s;
+    border: 5px solid #AAAAAA;
+
+
+
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    color: brown;
+
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+    color: orangered;
+
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+    color: greenyellow;
+
+}
+
+p {
+    color: black;
+    font-size: 30px;
+}
+
+body {
+    background: linear-gradient(green 0%, yellow 100%)
+}
+
+options{
+    font-size: 30px;
+    font-style: italic;
+}
+
+#myname {
+    font-family: 'courgette'cursive;
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+img.hover {
+    tranform: scale(0.9)
+}
+
+button {
+    font-size: 25px;
+    background-color:coral;    
+}
+
+}
